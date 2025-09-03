@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+.titulo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    gap: 10px;
+}
+
+.descricao {
+    height: 20vh;
+    width: 20vw;
+}
